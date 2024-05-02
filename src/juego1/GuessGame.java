@@ -58,7 +58,8 @@ The game ends when the user guesses correctly, there is no limit on attempts.
         
 }
             
-           /* do {
+           /*First attempt 😐
+           do {
             System.out.println("I'm thinking in a number between 1 and 100.");    
             System.out.println("Can you guess it? ;)");
             
